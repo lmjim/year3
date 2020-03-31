@@ -7,5 +7,5 @@ Classes include:
 * CIS 422 - Winter 2020 - Python
 
 To be added at the end of Spring 2020:
-* CIS 410 (Introduction to Game Programming) - Spring 2020 
+* CIS 410 (Introduction to Game Programming) - Spring 2020 - Unity
 * CIS 425 - Spring 2020 - Standard ML, Racket, Ruby, Java, Haskell, and Prolog
