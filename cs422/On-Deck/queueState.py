@@ -1,0 +1,2 @@
+activeRoster = []
+passiveRoster = []
